@@ -15,5 +15,9 @@ export default defineNuxtConfig({
     '/': { swr: true }
   },
 
-  modules: ['@nuxtjs/tailwindcss']
+  modules: ['@nuxtjs/tailwindcss'],
+
+
+
+
 })
